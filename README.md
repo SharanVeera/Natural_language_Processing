@@ -1,2 +1,5 @@
-# Natural_language_Processing
-growing collection of NLP assignments and projects completed as part of my learning path in Natural Language Processing. Each task explores different techniques for processing, analyzing, and modeling text data using Python and modern NLP libraries.
+# 🧠 Natural Language Processing Assignments
+
+This repository contains my NLP (Natural Language Processing) assignments and experiments.  
+Each folder focuses on a specific topic, implemented in Python and Jupyter notebooks.
+
